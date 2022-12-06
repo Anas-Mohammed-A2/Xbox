@@ -7,7 +7,9 @@ padding: 0;
 box-sizing: border-box;
 
 }
+.navbar{
 
+}
 
 .di_1 h1{
 font-size:55px;
@@ -152,14 +154,24 @@ align-items: center;
             margin-top: 0px;
             align-items: center;
             }
-            .SEC1{
-                margin-top: 30px;
+        .SEC1{
+                margin-top: 100px;
                 margin-bottom: 80px;
                 }
              
                    
                     
   }
+  .di_1{
+margin-top: 200px;
+
+  }
+header{
+position: fixed;
+width: 100%;
+top:0 ;
+margin-bottom: 30px;
+}
 .mySwiper{
 margin-top: 150px;
 }
